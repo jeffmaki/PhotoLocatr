@@ -28,8 +28,8 @@
 @synthesize delegate;
 
 - (id)init {
-	apiKey = @"b6f5f515a35bcf946dd093f108069ec7";
-	sharedSecret = @"89893b859daa687a";
+	apiKey = @"<< YOUR API KEY>>";
+	sharedSecret = @"<< YOUR SHARED SECRET >>";
 
 	return self;
 }
